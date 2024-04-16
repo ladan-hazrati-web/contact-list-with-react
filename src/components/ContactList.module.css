@@ -1,0 +1,18 @@
+
+
+.container{
+    width: 90%;
+    margin: 50px auto;
+}
+.container h2 {
+    color: blue;
+    margin-bottom: 25px;
+}
+.noItem {
+    width: 100%;
+    padding: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(205, 200, 200);
+}

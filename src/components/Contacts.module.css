@@ -1,0 +1,18 @@
+.item {
+  display: flex;
+  list-style-type: none;
+  justify-content: space-between;
+  background-color: rgb(231, 225, 225);
+  padding: 20px;
+}
+.item p {
+  width: 25%;
+}
+
+.deleteBtn {
+  background: none;
+  padding: 5px;
+  border: none;
+  font-size: 20px;
+  cursor: pointer;
+}
